@@ -14,3 +14,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 python main.py
 ```
+
+## Demo
+
+![Double Pendulum Simulation](assets/double-pendulum.gif)
